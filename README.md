@@ -2,5 +2,5 @@
 Data Analytics Project using Python ,SQL and Power BI.
 
 
-## Blinkit Power BI Dashboard
-![Dashboard Screenshot](https://github.com/RishikaGautam004/MonthlySalesGrowth/blob/main/Screenshot%202026-01-08%20222951.png),(
+## Power BI Dashboard
+![Dashboard Screenshot](https://github.com/RishikaGautam004/MonthlySalesGrowth/blob/main/Screenshot%202026-01-08%20222951.png,https://github.com/RishikaGautam004/MonthlySalesGrowth/blob/main/Screenshot%202026-01-08%20223021.png)
